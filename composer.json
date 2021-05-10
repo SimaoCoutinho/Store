@@ -1,0 +1,13 @@
+{
+    "name": "simaocoutinho/store",
+    "description": "Store base project for my projects",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Simão Coutinho",
+            "email": "simaopedrocoutinho@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
