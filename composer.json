@@ -1,7 +1,7 @@
 {
     "name": "simao-coutinho/store",
     "description": "Store base project for my projects",
-    "type": "library",
+    "type": "laravel-bundle",
     "authors": [
         {
             "name": "Simão Coutinho",
