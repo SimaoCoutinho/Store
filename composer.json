@@ -1,13 +1,13 @@
 {
-    "name": "simao-coutinho/store",
-    "description": "Store base project for my projects",
-    "type": "laravel-bundle",
+    "name": "simaocoutinho/store",
+    "description": "Teste",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Simão Coutinho",
             "email": "simaopedrocoutinho@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
